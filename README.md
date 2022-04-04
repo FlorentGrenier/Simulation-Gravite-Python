@@ -1,8 +1,8 @@
-# Projet-B3-Python
+# Simulation de gravité en Python
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-<b> Progression </b> ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
 
 ## Sommaire
 1. [Contraintes](#contraintes)
