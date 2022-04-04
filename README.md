@@ -9,7 +9,8 @@
 
 
 ## Contraintes
-- Groupe (2/3) : utilisation de git
+- En groupe 
+- Utilisation de GitHub
 - Creation d'une BDD ( en json)
 - Faire une IHM (Tkinter, ...)
 - Logs pertinent
