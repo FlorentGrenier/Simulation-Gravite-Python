@@ -19,10 +19,10 @@
 
 ## Description du projet
 - Simulation d'une orbite 
-- Utilisation d'une IHM pour la simulationp avec Pygame
+- Utilisation d'une IHM pour la simulation avec Pygame
 - Donner la possibilité à l'utilisateur de rajoutr n nombre de planètes 
 - Ajouter 1 à 2 forces attractives 
-- Choisir la mise en place d'un objet 
+- Donner la possibilité à l'utilisateur de choisir le nombre de planète
 
 ## Liens utile
 - https://stackoverflow.com/questions/12038674/x-y-direction-to-degree
