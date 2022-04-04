@@ -25,7 +25,7 @@
 - [ ] Donner la possibilité à l'utilisateur de rajouter N nombre de planètes 
 - [x] Ajouter 1 force attractive
 - [ ] Ajouter 2 forces attractives
-- [ ] Enregistrer dans un fichier les planètes qui ont fait une révolution complète autour du Soleil
+- [ ] Enregistrer dans un fichier les planètes avec toutes ces informations
 
 ## Liens utile
 - https://stackoverflow.com/questions/12038674/x-y-direction-to-degree
