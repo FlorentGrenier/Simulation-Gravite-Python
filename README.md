@@ -2,6 +2,8 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
+Progression : ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+
 ## Sommaire
 1. [Contraintes](#contraintes)
 2. [Description du projet](#description-du-projet)
@@ -18,11 +20,10 @@
 - formatter en pep8
 
 ## Description du projet
-- Simulation d'une orbite 
+- Simulation d'une orbite [x]
 - Utilisation d'une IHM pour la simulation avec Pygame
-- Donner la possibilité à l'utilisateur de rajoutr n nombre de planètes 
-- Ajouter 1 à 2 forces attractives 
-- Donner la possibilité à l'utilisateur de choisir le nombre de planète
+- Donner la possibilité à l'utilisateur de rajouter n nombre de planètes 
+- Ajouter 1 à 2 forces attractives [/]
 
 ## Liens utile
 - https://stackoverflow.com/questions/12038674/x-y-direction-to-degree
