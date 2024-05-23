@@ -1,14 +1,17 @@
 # Simulation de gravité en Python
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 ## Sommaire
-1. [Contraintes](#contraintes)
-2. [Objectif du projet](#objectif-du-projet)
-3. [Formule mathématique](#formule-mathématique)
-4. [Liens utile](#liens-utile)
+1. [Description du projet](#description-du-projet)
+2. [Contraintes](#contraintes)
+3. [Objectif du projet](#objectif-du-projet)
+4. [Formule mathématique](#formule-mathématique)
+5. [Bibliothèque utilisée](#bibliothèque-utilisée)
+6. [Liens utile](#liens-utile)
 
+## Description du projet
+Projet réalisé dans le cadre de la fin du module de mathématique en B3.
 
 ## Contraintes
 - Utilisation de GitHub
