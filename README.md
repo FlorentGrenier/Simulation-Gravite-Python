@@ -23,7 +23,7 @@ Projet réalisé dans le cadre de la fin du module de mathématique en B3.
 ## Objectif du projet
 - [x] Simulation d'une orbite
 - [x] Utilisation de Pygame pour l'affichage de la simulation
-- [ ] Faire une IHM pour permmetre le choix de planet au début de la simulation
+- [ ] Faire une IHM pour permettre à l'utilisateur de configurer la simulation 
 - [x] Ajouter 1 force attractive
 - [ ] Ajouter 2 forces attractives
 - [x] Enregistrer dans un fichier les planètes avec toutes ces informations
